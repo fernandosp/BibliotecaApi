@@ -1,0 +1,16 @@
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Services.deps.json
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Services.dll
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Services.pdb
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Business.dll
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Infra.Repository.dll
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Business.pdb
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\repository\LIbrary.Api\Library.Services\bin\Debug\netcoreapp2.2\Library.Infra.Repository.pdb
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.csprojAssemblyReference.cache
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.csproj.CoreCompileInputs.cache
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.AssemblyInfoInputs.cache
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.AssemblyInfo.cs
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.csproj.CopyComplete
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.dll
+C:\repository\LIbrary.Api\Library.Services\obj\Debug\netcoreapp2.2\Library.Services.pdb

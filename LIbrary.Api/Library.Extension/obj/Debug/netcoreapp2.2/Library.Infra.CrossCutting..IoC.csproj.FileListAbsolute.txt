@@ -1,0 +1,9 @@
+C:\repository\LIbrary.Api\Library.Infra.Ioc\bin\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.deps.json
+C:\repository\LIbrary.Api\Library.Infra.Ioc\bin\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.dll
+C:\repository\LIbrary.Api\Library.Infra.Ioc\bin\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.pdb
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.csprojAssemblyReference.cache
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.csproj.CoreCompileInputs.cache
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.AssemblyInfoInputs.cache
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.AssemblyInfo.cs
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.dll
+C:\repository\LIbrary.Api\Library.Infra.Ioc\obj\Debug\netcoreapp2.2\Library.Infra.CrossCutting..IoC.pdb

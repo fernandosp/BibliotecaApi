@@ -1,0 +1,12 @@
+C:\repository\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.deps.json
+C:\repository\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\repository\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\repository\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\repository\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.csprojAssemblyReference.cache
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.csproj.CoreCompileInputs.cache
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.AssemblyInfoInputs.cache
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.AssemblyInfo.cs
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.csproj.CopyComplete
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.dll
+C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.pdb
