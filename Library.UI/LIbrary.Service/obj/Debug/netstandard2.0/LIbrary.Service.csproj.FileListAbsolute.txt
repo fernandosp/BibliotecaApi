@@ -1,9 +1,0 @@
-C:\repository\Library.UI\LIbrary.Service\bin\Debug\netstandard2.0\LIbrary.Service.deps.json
-C:\repository\Library.UI\LIbrary.Service\bin\Debug\netstandard2.0\LIbrary.Service.dll
-C:\repository\Library.UI\LIbrary.Service\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
-C:\repository\Library.UI\LIbrary.Service\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
-C:\repository\Library.UI\LIbrary.Service\obj\Debug\netstandard2.0\LIbrary.Service.csprojAssemblyReference.cache
-C:\repository\Library.UI\LIbrary.Service\obj\Debug\netstandard2.0\LIbrary.Service.csproj.CoreCompileInputs.cache
-C:\repository\Library.UI\LIbrary.Service\obj\Debug\netstandard2.0\LIbrary.Service.AssemblyInfoInputs.cache
-C:\repository\Library.UI\LIbrary.Service\obj\Debug\netstandard2.0\LIbrary.Service.AssemblyInfo.cs
-C:\repository\Library.UI\LIbrary.Service\obj\Debug\netstandard2.0\LIbrary.Service.csproj.CopyComplete
