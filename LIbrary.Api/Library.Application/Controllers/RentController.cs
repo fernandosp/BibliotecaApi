@@ -10,7 +10,6 @@ namespace Library.Api.Controllers
     [ApiController]
     public class RentController : ControllerBase
     {
-
         private readonly IBusiness<Rent> _rentBusiness;
         private readonly ILogger<RentController> _logger;
 

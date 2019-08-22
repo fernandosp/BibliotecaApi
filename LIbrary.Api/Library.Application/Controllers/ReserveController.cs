@@ -61,6 +61,5 @@ namespace Library.Api.Controllers
             _reserveBusiness.Delete(Reserve);
             return Ok("Delete Success");
         }
-
     }
 }

@@ -7,11 +7,12 @@ namespace Library.Business
     public class RentBusiness : IBusiness<Rent>
     {
         private readonly IRentRepository _rentRepository;
-       
+
         public RentBusiness(IRentRepository rentRepository)
         {
             _rentRepository = rentRepository;
         }
+
         public void Delete(Rent entity)
         {
             _rentRepository.Delete(entity);
@@ -31,6 +32,5 @@ namespace Library.Business
         {
             _rentRepository.Update(entity);
         }
-        
     }
 }

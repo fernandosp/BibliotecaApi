@@ -1,12 +1,10 @@
 ﻿using Dapper;
+using Library.Infra.Repository.DbConfiguration;
 using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using System.Data;
 using System.Linq;
 using System.Reflection;
-using Microsoft.Extensions.Configuration;
-using Library.Infra.Repository.DbConfiguration;
-using System.Data;
 
 namespace Library.Infra.Repository
 {
@@ -84,7 +82,7 @@ namespace Library.Infra.Repository
             if (!string.IsNullOrWhiteSpace(where))
                 query += $"where {where} ";
 
-            using (var connection =dbConn)
+            using (var connection = dbConn)
             {
                 if (connection.State != ConnectionState.Open)
                     connection.Open();
@@ -99,6 +97,5 @@ namespace Library.Infra.Repository
                     .Where(e => e.Name != "ID" && !e.PropertyType.GetTypeInfo().IsGenericType)
                     .Select(e => e.Name);
         }
-       
     }
 }

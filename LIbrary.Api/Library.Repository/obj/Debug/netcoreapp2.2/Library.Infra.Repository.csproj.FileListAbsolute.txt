@@ -10,3 +10,15 @@ C:\repository\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Inf
 C:\repository\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.csproj.CopyComplete
 C:\repository\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.dll
 C:\repository\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.csprojAssemblyReference.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.AssemblyInfoInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.AssemblyInfo.cs
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\bin\Debug\netcoreapp2.2\Library.Infra.Repository.deps.json
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\bin\Debug\netcoreapp2.2\Library.Infra.Repository.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\bin\Debug\netcoreapp2.2\Library.Infra.Repository.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Repository\obj\Debug\netcoreapp2.2\Library.Infra.Repository.csproj.CopyComplete

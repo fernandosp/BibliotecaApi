@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 
-
 namespace Library.Api.Controllers
 {
     [Route("api/[controller]")]
@@ -13,6 +12,7 @@ namespace Library.Api.Controllers
     {
         private readonly IBusiness<Publisher> _publisherBusiness;
         private readonly ILogger<PublisherController> _logger;
+
         public PublisherController(IBusiness<Publisher> publisherBusiness, ILogger<PublisherController> logger)
         {
             _logger = logger;

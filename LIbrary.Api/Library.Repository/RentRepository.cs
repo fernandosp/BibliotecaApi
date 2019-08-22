@@ -9,6 +9,7 @@ namespace Library.Infra.Repository
         public RentRepository(IDatabaseFactory databaseOptions) : base(databaseOptions)
         {
         }
+
         public RentRepository(IDbConnection databaseConnection, IDbTransaction transaction = null) : base(databaseConnection, transaction)
         {
         }

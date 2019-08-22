@@ -47,14 +47,13 @@ namespace Library
                     var contextFeature = context.Features.Get<IExceptionHandlerFeature>();
                     if (contextFeature != null)
                     {
-                        
                         logger.LogError($"Error details: {contextFeature.Error}");
 
                         await context.Response.WriteAsync(new ErrorDetails()
                         {
                             StatusCode = context.Response.StatusCode,
                             Message = contextFeature.Error.ToString()
-                        }.ToString()) ;
+                        }.ToString());
                     }
                 });
             });

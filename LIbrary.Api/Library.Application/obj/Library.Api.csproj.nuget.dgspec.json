@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repository\\LIbrary.Api\\Library.Application\\Library.Api.csproj": {}
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Application\\Library.Api.csproj": {}
   },
   "projects": {
-    "C:\\repository\\LIbrary.Api\\Library.Application\\Library.Api.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Application\\Library.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Application\\Library.Api.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Application\\Library.Api.csproj",
         "projectName": "Library.Api",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Application\\Library.Api.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Application\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Application\\Library.Api.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj"
               }
             }
           }
@@ -86,20 +86,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj",
         "projectName": "Library.Business",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Business\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,11 +112,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj"
               }
             }
           }
@@ -145,20 +145,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
         "projectName": "Library.Domain",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -188,6 +188,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "linq2db": {
               "target": "Package",
               "version": "[2.9.0, )"
@@ -201,20 +205,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj",
         "projectName": "Library.Infra.CrossCutting.Extension",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Extension\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\Library.Infra.CrossCutting.Extension.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Extension\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -227,17 +231,17 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Services\\Library.Services.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Services\\Library.Services.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\Library.Services.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\Library.Services.csproj"
               }
             }
           }
@@ -290,20 +294,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
         "projectName": "Library.Infra.Repository",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -316,8 +320,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
               }
             }
           }
@@ -362,20 +366,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Services\\Library.Services.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\Library.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Services\\Library.Services.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\Library.Services.csproj",
         "projectName": "Library.Services",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Services\\Library.Services.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Services\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\Library.Services.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -388,11 +392,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Business\\Library.Business.csproj"
               },
-              "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
               }
             }
           }

@@ -12,6 +12,7 @@ namespace Library.Business
         {
             _userRepository = UuserRepository;
         }
+
         public void Delete(User entity)
         {
             _userRepository.Delete(entity);

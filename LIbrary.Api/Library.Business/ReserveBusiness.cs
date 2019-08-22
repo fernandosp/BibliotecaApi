@@ -2,7 +2,6 @@
 using Library.Infra.Repository;
 using System.Collections.Generic;
 
-
 namespace Library.Business
 {
     public class ReserveBusiness : IBusiness<Reserve>
@@ -13,6 +12,7 @@ namespace Library.Business
         {
             _reserveRepository = reserveRepository;
         }
+
         public void Delete(Reserve entity)
         {
             _reserveRepository.Delete(entity);

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {}
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {}
   },
   "projects": {
-    "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
         "projectName": "Library.Domain",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +47,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "linq2db": {
               "target": "Package",
               "version": "[2.9.0, )"
@@ -60,20 +64,20 @@
         }
       }
     },
-    "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
+    "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
+        "projectUniqueName": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
         "projectName": "Library.Infra.Repository",
-        "projectPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\repository\\LIbrary.Api\\Library.Repository\\obj\\",
+        "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\Library.Infra.Repository.csproj",
+        "packagesPath": "C:\\Users\\pinto\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,8 +90,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\repository\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Repository\\BibliotecaApi\\LIbrary.Api\\Library.Domain\\Library.Domain.csproj"
               }
             }
           }

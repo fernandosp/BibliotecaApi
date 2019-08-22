@@ -1,9 +1,6 @@
 ﻿using Library.Domain;
 using Library.Infra.Repository.DbConfiguration;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
 
 namespace Library.Infra.Repository
 {
@@ -12,6 +9,7 @@ namespace Library.Infra.Repository
         public BookRepository(IDatabaseFactory databaseOptions) : base(databaseOptions)
         {
         }
+
         public BookRepository(IDbConnection databaseConnection, IDbTransaction transaction = null) : base(databaseConnection, transaction)
         {
         }

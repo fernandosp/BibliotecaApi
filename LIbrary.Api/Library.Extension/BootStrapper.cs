@@ -23,7 +23,6 @@ namespace Library.Infra.CrossCutting.Extension
             services.AddTransient<IBusiness<Rent>, RentBusiness>();
             services.AddTransient<IBusiness<Reserve>, ReserveBusiness>();
             services.AddTransient<IBusiness<User>, UserBusiness>();
-
         }
 
         public static void DIRepository(IServiceCollection services)

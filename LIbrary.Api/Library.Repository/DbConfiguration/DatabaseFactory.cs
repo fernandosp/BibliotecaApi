@@ -8,6 +8,7 @@ namespace Library.Infra.Repository.DbConfiguration
     public class DatabaseFactory : IDatabaseFactory
     {
         private IOptions<DataSettings> dataSettings;
+
         protected string ConnectionString => !string.IsNullOrEmpty(dataSettings.Value.DefaultConnection) ?
                                                      dataSettings.Value.DefaultConnection :
                                                      DatabaseConnection.ConnectionConfiguration

@@ -10,7 +10,6 @@ namespace Library.Api.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-
         private readonly IBusiness<User> _userBusiness;
         private readonly ILogger<UserController> _logger;
 
@@ -62,6 +61,5 @@ namespace Library.Api.Controllers
             _userBusiness.Delete(User);
             return Ok("Delete Success");
         }
-
     }
 }

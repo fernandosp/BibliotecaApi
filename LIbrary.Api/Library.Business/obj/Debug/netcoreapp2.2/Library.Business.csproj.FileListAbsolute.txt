@@ -12,3 +12,17 @@ C:\repository\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Busin
 C:\repository\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.csproj.CopyComplete
 C:\repository\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.dll
 C:\repository\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.csprojAssemblyReference.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.csproj.CoreCompileInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.AssemblyInfoInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.AssemblyInfo.cs
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Business.deps.json
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Business.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Business.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Infra.Repository.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\bin\Debug\netcoreapp2.2\Library.Infra.Repository.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Business\obj\Debug\netcoreapp2.2\Library.Business.csproj.CopyComplete

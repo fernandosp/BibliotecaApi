@@ -12,6 +12,7 @@ namespace Library.Business
         {
             _publisherRepository = publisherRepository;
         }
+
         public void Delete(Publisher entity)
         {
             _publisherRepository.Delete(entity);

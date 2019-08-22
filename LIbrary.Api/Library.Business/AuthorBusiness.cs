@@ -12,6 +12,7 @@ namespace Library.Business
         {
             _authorRepository = authorRepository;
         }
+
         public void Delete(Author entity)
         {
             _authorRepository.Delete(entity);
@@ -24,7 +25,7 @@ namespace Library.Business
 
         public IEnumerable<Author> Query(string where = null)
         {
-           return _authorRepository.Query(where);
+            return _authorRepository.Query(where);
         }
 
         public void Update(Author entity)

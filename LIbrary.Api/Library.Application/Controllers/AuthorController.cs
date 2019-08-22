@@ -18,7 +18,7 @@ namespace Library.Api.Controllers
             _logger = logger;
             _autorBusiness = autorBusiness;
         }
-        
+
         [HttpGet]
         public ActionResult<List<Author>> GetAll()
         {
@@ -61,6 +61,5 @@ namespace Library.Api.Controllers
             _autorBusiness.Delete(author);
             return Ok("Delete Success");
         }
-       
     }
 }

@@ -9,6 +9,7 @@ namespace Library.Infra.Repository
         public ReserveRepository(IDatabaseFactory databaseOptions) : base(databaseOptions)
         {
         }
+
         public ReserveRepository(IDbConnection databaseConnection, IDbTransaction transaction = null) : base(databaseConnection, transaction)
         {
         }

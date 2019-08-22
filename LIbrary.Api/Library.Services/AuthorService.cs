@@ -8,6 +8,7 @@ namespace Library.Services
     public class AuthorService : IService<Author>
     {
         private readonly IBusiness<Author> _authorBusiness;
+
         public AuthorService(IBusiness<Author> authorBusiness)
         {
             _authorBusiness = authorBusiness;
@@ -25,7 +26,7 @@ namespace Library.Services
 
         public IEnumerable<Author> Query(string where = null)
         {
-           return _authorBusiness.Query(where);
+            return _authorBusiness.Query(where);
         }
 
         public void Update(Author entity)

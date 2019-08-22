@@ -9,6 +9,7 @@ namespace Library.Infra.Repository
         public AuthorRepository(IDatabaseFactory databaseOptions) : base(databaseOptions)
         {
         }
+
         public AuthorRepository(IDbConnection databaseConnection, IDbTransaction transaction = null) : base(databaseConnection, transaction)
         {
         }

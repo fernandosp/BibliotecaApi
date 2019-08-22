@@ -10,3 +10,11 @@ C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.
 C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.csproj.CopyComplete
 C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.dll
 C:\repository\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.AssemblyInfoInputs.cache
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.AssemblyInfo.cs
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\obj\Debug\netcoreapp2.2\Library.Domain.pdb
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.deps.json
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.dll
+C:\Repository\BibliotecaApi\LIbrary.Api\Library.Domain\bin\Debug\netcoreapp2.2\Library.Domain.pdb
